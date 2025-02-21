@@ -12,5 +12,5 @@ Passionate about all things data, analytics, and AI
 
 Fun Fact About Me  
 
-I started my career in Customer Experience, where I mastered the art of understanding clients’ needs. Now, I'm leveraging that knowledge to build data-driven solutions that enhance customer satisfaction. My journey from CX to Data Science proves that every dataset tells a story—and I’m here to uncover it!  
+I started my career in Customer Experience, where I mastered the art of understanding clients’ needs. Now, I'm leveraging that knowledge to build data-driven solutions that enhance customer satisfaction. My journey from CX to Data Science proves that every dataset tells a story, and I’m here to uncover it!  
 
